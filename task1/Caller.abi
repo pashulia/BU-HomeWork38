@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"address","name":"adr","type":"address"},{"internalType":"bytes","name":"payload","type":"bytes"}],"name":"makeCall","outputs":[],"stateMutability":"nonpayable","type":"function"}]
